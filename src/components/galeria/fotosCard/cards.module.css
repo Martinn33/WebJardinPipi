@@ -1,0 +1,29 @@
+.contenedor{
+    display: flex;
+    position: relative;
+
+    height:13rem;
+    width: 11rem;
+    border: 5px rgb(255, 223, 11) solid;
+    padding: 1rem;
+    margin: 0.5rem;
+    overflow-x: hidden;
+    justify-content: space-around;
+    border-radius: 1rem;
+
+}
+
+.img{
+    position: absolute;
+    width: 100%;
+    height: 100%;   
+}
+
+.h1{
+    z-index: 1;
+    border-radius: 1rem;
+    overflow-x: hidden;
+    width: 10rem;
+    height: 2rem;
+    background-color: blueviolet;
+}

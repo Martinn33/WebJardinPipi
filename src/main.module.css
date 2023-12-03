@@ -1,0 +1,29 @@
+*{
+     /* background-image: url("./vista-aerea-paisaje-urbano-tokio-montana-fuji-japon.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   background-attachment: fixed; 
+   backdrop-filter: blur(10px); */
+    /* background-color: rgb(22, 129, 129); 
+
+   width: 100%;
+
+    margin: 0;
+    padding: 0;
+    grid-auto-rows: 22rem;
+    grid-template-columns: repeat(auto-fill, minmax(minmax(25rem, 1fr))); 
+
+    box-sizing: content-box; /*haceer que los elementos no salgan de su margen*/
+    padding: 0;
+    margin: 0;
+  height: 100%;
+  width: 100%;
+    box-sizing: content-box; /*haceer que los elementos no salgan de su margen*/
+
+    font-family: "Comic Sans MS";
+    text-decoration: none;
+    list-style: none;
+    overflow-y: hidden;
+    
+}

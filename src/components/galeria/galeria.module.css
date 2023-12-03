@@ -1,0 +1,25 @@
+.container{
+    margin: 0;
+    display:flex;
+    width: 95%;
+    position: absolute;
+    height: 86%;
+z-index: 1;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    backdrop-filter: blur(30px);
+    border: 3px solid #fffefd;
+    border-top-right-radius: 1rem;
+    border-top-left-radius:1rem ;
+    overflow-y: scroll;
+
+    top: 4.3rem;
+    left: 1%;
+    right:1%;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+  
+}
+
